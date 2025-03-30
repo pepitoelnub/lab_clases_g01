@@ -13,3 +13,5 @@ paises.append("España")
 
 print("El nuevo tamaño de mi lista es: {}".format(len(paises)))
 print("Los valores de mi lista: {}".format(paises))
+
+fecha_actualizada = "30/03/2025"
